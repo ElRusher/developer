@@ -1,0 +1,31 @@
+{
+  "name": "delivery-system",
+  "version": "1.0.0",
+  "description": "API for Delivery System",
+  "main": "src/index.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.mjs",
+    "pretest": "node scripts/createTestUser.mjs",
+    "test": "mocha --timeout 20000"
+  },
+  "author": "ElRusher",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "chai": "^4.3.6",
+    "chai-http": "^4.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.3",
+    "winston": "^3.8.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}

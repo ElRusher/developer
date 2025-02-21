@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    ports:
+      - '3000:3000'
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/delivery-system
+      - JWT_SECRET=your_jwt_secret
+    depends_on:
+      - mongo
+
+  mongo:
+    image: mongo:5
+    ports:
+      - '27017:27017'
+    volumes:
+      - mongo-data:/data/db
+
+  test:
+    build: .
+    command: sh -c "npm run pretest && npm test"
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/delivery-system
+      - JWT_SECRET=your_jwt_secret
+    depends_on:
+      - mongo
+
+volumes:
+  mongo-data:

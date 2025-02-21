@@ -1,0 +1,35 @@
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2025-02-21T16:25:08.845Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:16:25:18 +0000] \"POST /api/auth/login HTTP/1.1\" 500 75 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T16:25:18.920Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:16:25:18 +0000] \"GET /api/delivery-persons HTTP/1.1\" 401 32 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T16:25:18.936Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:16:25:18 +0000] \"POST /api/delivery-persons HTTP/1.1\" 401 32 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T16:25:18.953Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:16:26:08 +0000] \"POST /api/auth/login HTTP/1.1\" 500 75 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T16:26:08.973Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:16:26:08 +0000] \"GET /api/orders HTTP/1.1\" 401 32 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T16:26:08.982Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:16:26:08 +0000] \"POST /api/orders HTTP/1.1\" 401 32 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T16:26:08.991Z"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2025-02-21T16:31:29.533Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:16:31:39 +0000] \"POST /api/auth/login HTTP/1.1\" 500 75 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T16:31:39.606Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:16:31:39 +0000] \"GET /api/delivery-persons HTTP/1.1\" 401 32 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T16:31:39.622Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:16:31:39 +0000] \"POST /api/delivery-persons HTTP/1.1\" 401 32 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T16:31:39.639Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:16:32:29 +0000] \"POST /api/auth/login HTTP/1.1\" 500 75 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T16:32:29.671Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:16:32:29 +0000] \"GET /api/orders HTTP/1.1\" 401 32 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T16:32:29.680Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:16:32:29 +0000] \"POST /api/orders HTTP/1.1\" 401 32 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T16:32:29.688Z"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2025-02-21T16:42:01.079Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:16:42:11 +0000] \"POST /api/auth/login HTTP/1.1\" 500 75 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T16:42:11.151Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:16:42:11 +0000] \"GET /api/delivery-persons HTTP/1.1\" 401 32 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T16:42:11.167Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:16:42:11 +0000] \"POST /api/delivery-persons HTTP/1.1\" 401 32 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T16:42:11.184Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:16:43:01 +0000] \"POST /api/auth/login HTTP/1.1\" 500 75 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T16:43:01.215Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:16:43:01 +0000] \"GET /api/orders HTTP/1.1\" 401 32 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T16:43:01.223Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:16:43:01 +0000] \"POST /api/orders HTTP/1.1\" 401 32 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T16:43:01.232Z"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2025-02-21T17:13:20.415Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:17:13:30 +0000] \"POST /api/auth/login HTTP/1.1\" 500 75 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T17:13:30.492Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:17:13:30 +0000] \"GET /api/delivery-persons HTTP/1.1\" 401 32 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T17:13:30.508Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:17:13:30 +0000] \"POST /api/delivery-persons HTTP/1.1\" 401 32 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T17:13:30.525Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:17:14:20 +0000] \"POST /api/auth/login HTTP/1.1\" 500 75 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T17:14:20.561Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:17:14:20 +0000] \"GET /api/orders HTTP/1.1\" 401 32 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T17:14:20.571Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:17:14:20 +0000] \"POST /api/orders HTTP/1.1\" 401 32 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T17:14:20.581Z"}
+{"level":"info","message":"Server running on port 3000","service":"user-service","timestamp":"2025-02-21T17:38:09.868Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:17:38:10 +0000] \"POST /api/auth/login HTTP/1.1\" 200 205 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T17:38:10.136Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:17:38:10 +0000] \"GET /api/delivery-persons HTTP/1.1\" 200 2 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T17:38:10.155Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:17:38:10 +0000] \"POST /api/delivery-persons HTTP/1.1\" 201 110 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T17:38:10.180Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:17:38:50 +0000] \"POST /api/auth/login HTTP/1.1\" 200 205 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T17:38:50.351Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:17:38:50 +0000] \"GET /api/orders HTTP/1.1\" 200 2 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T17:38:50.362Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Feb/2025:17:38:50 +0000] \"POST /api/orders HTTP/1.1\" 201 107 \"-\" \"-\"","service":"user-service","timestamp":"2025-02-21T17:38:50.375Z"}
